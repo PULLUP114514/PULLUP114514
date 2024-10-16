@@ -1,5 +1,6 @@
-## Hi there I'm BSODWTPC🤤
-
+# Hi there I'm BSODWTPC🤤
+I'm currently working on the project called XPRTC
+This project is not currently open source, but it may be open source after my college entrance examination🧐🧐
 
 <!--
 **PULLUP114514/PULLUP114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
