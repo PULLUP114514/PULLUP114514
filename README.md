@@ -1,5 +1,5 @@
 ## Hi there I'm BSODWTPC🤤
-I'm currently working on the project called XPRTC. 
+I'm currently working on the project called XCRWXP. 
 This project is not currently open source, but it may be open source after my college entrance examination🧐🧐
 
 <!--
